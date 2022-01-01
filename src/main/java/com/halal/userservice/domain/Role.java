@@ -15,7 +15,6 @@ import static javax.persistence.GenerationType.AUTO;
 @Getter
 @Setter
 @ToString
-@RequiredArgsConstructor
 @NoArgsConstructor
 @AllArgsConstructor
 public class Role {
